@@ -1,0 +1,13 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+C1,0603,1,4700,
+"D1, D2",0603,2,LED,
+"H1, H2, H3, H4",MountingHole_3.2mm_M3_DIN965_Pad,4,MountingHole_Pad,
+"J1, J2",JST_XH_B6B-XH-A_1x06_P2.50mm_Vertical,2,XH_6pin,
+"J3, J4",JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical,2,XH_2pin,
+R1,0603,1,300,
+"R2, R3",0603,2,60,
+R4,0603,1,120,
+"R5, R6",0603,2,1k,
+SW1,slide_SW,1,SW_SPDT,
+U1,MODULE_ESP32-DEVKITC-32E,1,~,
+U2,SOIC-8_3.9x4.9mm_P1.27mm,1,MCP2561-E-SN,
