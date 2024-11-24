@@ -3566,7 +3566,7 @@
 		(uuid "655d3187-b51f-4f31-ae5c-76ee51cb6670")
 	)
 	(no_connect
-		(at 191.77 119.38)
+		(at 191.77 111.76)
 		(uuid "6e62e6a6-a910-4f2e-a251-d41b1585014c")
 	)
 	(no_connect
@@ -3645,6 +3645,16 @@
 	)
 	(wire
 		(pts
+			(xy 157.48 31.75) (xy 162.56 31.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "184286de-a59f-49c4-8b8f-aed414329c43")
+	)
+	(wire
+		(pts
 			(xy 31.75 77.47) (xy 38.1 77.47)
 		)
 		(stroke
@@ -3685,13 +3695,23 @@
 	)
 	(wire
 		(pts
-			(xy 171.45 114.3) (xy 191.77 114.3)
+			(xy 171.45 106.68) (xy 191.77 106.68)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "3e8ed48d-b9ed-46ac-b5bf-39c44ca840fc")
+	)
+	(wire
+		(pts
+			(xy 162.56 20.32) (xy 166.37 20.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4240387f-67d3-4bab-a007-32f2e512d88d")
 	)
 	(wire
 		(pts
@@ -3765,7 +3785,7 @@
 	)
 	(wire
 		(pts
-			(xy 176.53 104.14) (xy 191.77 104.14)
+			(xy 176.53 96.52) (xy 191.77 96.52)
 		)
 		(stroke
 			(width 0)
@@ -3842,6 +3862,16 @@
 			(type default)
 		)
 		(uuid "b2b4cb45-d377-4ff2-8f52-58af9daceb2d")
+	)
+	(wire
+		(pts
+			(xy 162.56 29.21) (xy 162.56 20.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b62ade54-1f2e-4865-b51c-883ea79a052d")
 	)
 	(wire
 		(pts
@@ -4133,7 +4163,7 @@
 	)
 	(global_label "MOTOR_OUT2"
 		(shape output)
-		(at 191.77 121.92 180)
+		(at 191.77 114.3 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4143,7 +4173,7 @@
 		)
 		(uuid "0c51d2b3-a5b9-4bc6-8c8f-8c6bf15ae9dd")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 176.6291 121.92 0)
+			(at 176.6291 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4197,7 +4227,7 @@
 			)
 		)
 	)
-	(global_label "RB_2"
+	(global_label "RB_1"
 		(shape input)
 		(at 96.52 129.54 180)
 		(fields_autoplaced yes)
@@ -4219,7 +4249,7 @@
 			)
 		)
 	)
-	(global_label "LF_2"
+	(global_label "LF_1"
 		(shape input)
 		(at 129.54 111.76 180)
 		(fields_autoplaced yes)
@@ -4263,7 +4293,7 @@
 			)
 		)
 	)
-	(global_label "CAN_RX"
+	(global_label "CAN_L"
 		(shape bidirectional)
 		(at 120.65 170.18 180)
 		(fields_autoplaced yes)
@@ -4275,7 +4305,7 @@
 		)
 		(uuid "303ca343-7009-4ea0-9304-fb66a65cfa2c")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 109.4173 170.18 0)
+			(at 110.8687 170.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4307,7 +4337,7 @@
 			)
 		)
 	)
-	(global_label "RB_1"
+	(global_label "RB_2"
 		(shape input)
 		(at 96.52 127 180)
 		(fields_autoplaced yes)
@@ -4353,7 +4383,7 @@
 	)
 	(global_label "RB_PWM"
 		(shape input)
-		(at 191.77 111.76 180)
+		(at 191.77 104.14 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4363,7 +4393,7 @@
 		)
 		(uuid "387a1999-e56a-4d68-915f-c0d52eb80491")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 181.1044 111.76 0)
+			(at 181.1044 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4461,7 +4491,7 @@
 			)
 		)
 	)
-	(global_label "CAN_TX"
+	(global_label "CAN_H"
 		(shape bidirectional)
 		(at 120.65 167.64 180)
 		(fields_autoplaced yes)
@@ -4473,7 +4503,7 @@
 		)
 		(uuid "53272a0d-e21b-4ea0-bea6-441cf618f1bb")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 109.7197 167.64 0)
+			(at 110.5663 167.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4483,7 +4513,7 @@
 			)
 		)
 	)
-	(global_label "LB_2"
+	(global_label "LB_1"
 		(shape input)
 		(at 129.54 129.54 180)
 		(fields_autoplaced yes)
@@ -4615,7 +4645,7 @@
 			)
 		)
 	)
-	(global_label "LF_1"
+	(global_label "LF_2"
 		(shape input)
 		(at 129.54 109.22 180)
 		(fields_autoplaced yes)
@@ -4639,7 +4669,7 @@
 	)
 	(global_label "MOTOR_OUT1"
 		(shape output)
-		(at 191.77 116.84 180)
+		(at 191.77 109.22 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4649,7 +4679,7 @@
 		)
 		(uuid "7f8b15bd-96b5-4d7e-8486-632b49bab7f0")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 176.6291 116.84 0)
+			(at 176.6291 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4793,7 +4823,7 @@
 	)
 	(global_label "RF_PWM"
 		(shape input)
-		(at 191.77 106.68 180)
+		(at 191.77 99.06 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4803,7 +4833,7 @@
 		)
 		(uuid "a4c39e12-0b5b-4aca-b5cf-426892e3a2fa")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 181.2858 106.68 0)
+			(at 181.2858 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4967,7 +4997,7 @@
 			)
 		)
 	)
-	(global_label "RF_2"
+	(global_label "RF_1"
 		(shape input)
 		(at 96.52 111.76 180)
 		(fields_autoplaced yes)
@@ -4989,7 +5019,7 @@
 			)
 		)
 	)
-	(global_label "RF_1"
+	(global_label "RF_2"
 		(shape input)
 		(at 96.52 109.22 180)
 		(fields_autoplaced yes)
@@ -5055,6 +5085,50 @@
 			)
 		)
 	)
+	(global_label "MOTOR_OUT2"
+		(shape input)
+		(at 189.23 130.81 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "d7aab589-7c58-4f71-b9ac-50967d43a624")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 174.0891 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "MOTOR_OUT1"
+		(shape input)
+		(at 189.23 128.27 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "d81aefe8-dea2-480f-91c4-4eb12ad9f87e")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 174.0891 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "RF_1"
 		(shape input)
 		(at 44.45 104.14 180)
@@ -5079,7 +5153,7 @@
 	)
 	(global_label "LF_PWM"
 		(shape input)
-		(at 191.77 109.22 180)
+		(at 191.77 101.6 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5089,7 +5163,7 @@
 		)
 		(uuid "eaa855e5-364b-48b3-9339-b2fe5c0ca05c")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 181.5277 109.22 0)
+			(at 181.5277 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5099,7 +5173,7 @@
 			)
 		)
 	)
-	(global_label "LB_1"
+	(global_label "LB_2"
 		(shape input)
 		(at 129.54 127 180)
 		(fields_autoplaced yes)
@@ -5175,7 +5249,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "061a04e7-df47-49e0-9b1f-6dd15e1cc1eb")
-		(property "Reference" "J3"
+		(property "Reference" "RF_Encoder1"
 			(at 102.87 106.6799 0)
 			(effects
 				(font
@@ -5191,6 +5265,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "Connector_JST:JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical"
@@ -5235,7 +5310,7 @@
 		(instances
 			(project ""
 				(path "/4efb8881-479f-4e59-a9be-3fc1d9bb8fe0"
-					(reference "J3")
+					(reference "RF_Encoder1")
 					(unit 1)
 				)
 			)
@@ -5709,7 +5784,7 @@
 	)
 	(symbol
 		(lib_id "power:+7.5V")
-		(at 171.45 114.3 0)
+		(at 171.45 106.68 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5717,7 +5792,7 @@
 		(dnp no)
 		(uuid "2a12546c-87c7-4244-97a3-800633b3d819")
 		(property "Reference" "#PWR032"
-			(at 171.45 118.11 0)
+			(at 171.45 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5726,7 +5801,7 @@
 			)
 		)
 		(property "Value" "+7.5V"
-			(at 168.656 110.49 0)
+			(at 168.656 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5734,7 +5809,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 171.45 114.3 0)
+			(at 171.45 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5743,7 +5818,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 171.45 114.3 0)
+			(at 171.45 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5752,7 +5827,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+7.5V\""
-			(at 171.45 114.3 0)
+			(at 171.45 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5847,7 +5922,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "33103525-3d27-424f-ab34-2362fe157c6c")
-		(property "Reference" "J2"
+		(property "Reference" "Motor_RL_B1"
 			(at 50.8 124.4599 0)
 			(effects
 				(font
@@ -5863,6 +5938,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "Connector_JST:JST_XH_B6B-XH-A_1x06_P2.50mm_Vertical"
@@ -5913,7 +5989,7 @@
 		(instances
 			(project "ESP32_WROOM_32E_msd"
 				(path "/4efb8881-479f-4e59-a9be-3fc1d9bb8fe0"
-					(reference "J2")
+					(reference "Motor_RL_B1")
 					(unit 1)
 				)
 			)
@@ -6463,7 +6539,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5db41dc2-ff93-47b3-b059-c66ef2ecd84d")
-		(property "Reference" "J6"
+		(property "Reference" "RB_Encoder1"
 			(at 102.87 124.4599 0)
 			(effects
 				(font
@@ -6479,6 +6555,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "Connector_JST:JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical"
@@ -6523,7 +6600,7 @@
 		(instances
 			(project "ESP32_WROOM_32E_msd"
 				(path "/4efb8881-479f-4e59-a9be-3fc1d9bb8fe0"
-					(reference "J6")
+					(reference "RB_Encoder1")
 					(unit 1)
 				)
 			)
@@ -6531,7 +6608,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 162.56 31.75 0)
+		(at 166.37 20.32 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6540,7 +6617,7 @@
 		(fields_autoplaced yes)
 		(uuid "5e6f0cc4-58e6-4536-8288-8a0a1897d06b")
 		(property "Reference" "#PWR027"
-			(at 162.56 38.1 0)
+			(at 166.37 26.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6549,7 +6626,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 162.56 36.83 0)
+			(at 166.37 25.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6557,7 +6634,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 162.56 31.75 0)
+			(at 166.37 20.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6566,7 +6643,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 162.56 31.75 0)
+			(at 166.37 20.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6575,7 +6652,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 162.56 31.75 0)
+			(at 166.37 20.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6623,7 +6700,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_AMASS:AMASS_XT30PW-F_1x02_P2.50mm_Horizontal"
 			(at 167.64 29.21 0)
 			(effects
 				(font
@@ -6806,7 +6883,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6bd6f0de-71fe-4bd5-9beb-849425f83ab9")
-		(property "Reference" "J11"
+		(property "Reference" "Servo_2"
 			(at 236.22 105.4099 0)
 			(effects
 				(font
@@ -6815,16 +6892,17 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Conn_01x03_Socket"
+		(property "Value" "Servo_2"
 			(at 236.22 107.9499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_JST:JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical"
 			(at 234.95 106.68 0)
 			(effects
 				(font
@@ -6863,7 +6941,7 @@
 		(instances
 			(project ""
 				(path "/4efb8881-479f-4e59-a9be-3fc1d9bb8fe0"
-					(reference "J11")
+					(reference "Servo_2")
 					(unit 1)
 				)
 			)
@@ -7345,7 +7423,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x08_Socket")
-		(at 196.85 111.76 0)
+		(at 196.85 104.14 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7354,7 +7432,7 @@
 		(fields_autoplaced yes)
 		(uuid "7bf6e1b2-9121-436f-af21-1129f14b36f7")
 		(property "Reference" "J9"
-			(at 198.12 111.7599 0)
+			(at 198.12 104.1399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7363,7 +7441,7 @@
 			)
 		)
 		(property "Value" "Motor_Driver"
-			(at 198.12 114.2999 0)
+			(at 198.12 106.6799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7371,8 +7449,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
-			(at 196.85 111.76 0)
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical"
+			(at 196.85 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7381,7 +7459,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 196.85 111.76 0)
+			(at 196.85 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7390,7 +7468,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x08, script generated"
-			(at 196.85 111.76 0)
+			(at 196.85 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7704,7 +7782,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "91835f38-8ad7-4b7b-98b1-c9d622bd7471")
-		(property "Reference" "J8"
+		(property "Reference" "LB_Encoder1"
 			(at 135.89 124.4599 0)
 			(effects
 				(font
@@ -7720,6 +7798,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "Connector_JST:JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical"
@@ -7764,7 +7843,7 @@
 		(instances
 			(project "ESP32_WROOM_32E_msd"
 				(path "/4efb8881-479f-4e59-a9be-3fc1d9bb8fe0"
-					(reference "J8")
+					(reference "LB_Encoder1")
 					(unit 1)
 				)
 			)
@@ -7780,7 +7859,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9bb69c2a-9123-4020-a828-cb363e970688")
-		(property "Reference" "J12"
+		(property "Reference" "Servo_1"
 			(at 236.22 123.1899 0)
 			(effects
 				(font
@@ -7789,16 +7868,17 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Conn_01x03_Socket"
+		(property "Value" "Servo_1"
 			(at 236.22 125.7299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_JST:JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical"
 			(at 234.95 124.46 0)
 			(effects
 				(font
@@ -7837,7 +7917,7 @@
 		(instances
 			(project "ESP32_WROOM_32E_msd"
 				(path "/4efb8881-479f-4e59-a9be-3fc1d9bb8fe0"
-					(reference "J12")
+					(reference "Servo_1")
 					(unit 1)
 				)
 			)
@@ -8107,6 +8187,76 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:Conn_01x02_Socket")
+		(at 194.31 128.27 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a73b8565-4361-46f6-9ed6-3b6567a786f9")
+		(property "Reference" "DC_motor1"
+			(at 195.58 128.2699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "DC_Motor"
+			(at 195.58 130.8099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Connector_JST:JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical"
+			(at 194.31 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 194.31 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x02, script generated"
+			(at 194.31 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "30f4f452-c2b1-4919-9194-0dbca809fb26")
+		)
+		(pin "2"
+			(uuid "34f4cb82-4af0-4939-bd96-04ec24395480")
+		)
+		(instances
+			(project ""
+				(path "/4efb8881-479f-4e59-a9be-3fc1d9bb8fe0"
+					(reference "DC_motor1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Connector:Conn_01x04_Socket")
 		(at 134.62 106.68 0)
 		(unit 1)
@@ -8116,7 +8266,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "af684192-40d5-457b-a097-417048aba439")
-		(property "Reference" "J7"
+		(property "Reference" "LF_Encoder1"
 			(at 135.89 106.6799 0)
 			(effects
 				(font
@@ -8132,6 +8282,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "Connector_JST:JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical"
@@ -8176,7 +8327,7 @@
 		(instances
 			(project "ESP32_WROOM_32E_msd"
 				(path "/4efb8881-479f-4e59-a9be-3fc1d9bb8fe0"
-					(reference "J7")
+					(reference "LF_Encoder1")
 					(unit 1)
 				)
 			)
@@ -8258,7 +8409,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c6e811b2-c9b9-482b-9278-6fa59e1e4ef0")
-		(property "Reference" "J1"
+		(property "Reference" "Motor_RL_F1"
 			(at 50.8 104.1399 0)
 			(effects
 				(font
@@ -8274,6 +8425,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "Connector_JST:JST_XH_B6B-XH-A_1x06_P2.50mm_Vertical"
@@ -8324,7 +8476,7 @@
 		(instances
 			(project ""
 				(path "/4efb8881-479f-4e59-a9be-3fc1d9bb8fe0"
-					(reference "J1")
+					(reference "Motor_RL_F1")
 					(unit 1)
 				)
 			)
@@ -8471,7 +8623,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 176.53 104.14 0)
+		(at 176.53 96.52 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8480,7 +8632,7 @@
 		(fields_autoplaced yes)
 		(uuid "cb991244-9b4f-4059-84a5-1115dd494fa9")
 		(property "Reference" "#PWR026"
-			(at 176.53 110.49 0)
+			(at 176.53 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8489,7 +8641,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 176.53 109.22 0)
+			(at 176.53 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8497,7 +8649,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 176.53 104.14 0)
+			(at 176.53 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8506,7 +8658,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 176.53 104.14 0)
+			(at 176.53 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8515,7 +8667,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 176.53 104.14 0)
+			(at 176.53 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8537,7 +8689,7 @@
 	)
 	(symbol
 		(lib_id "power:+7.5V")
-		(at 162.56 29.21 0)
+		(at 157.48 31.75 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8546,7 +8698,7 @@
 		(fields_autoplaced yes)
 		(uuid "ce5f0bea-1c48-4709-8df6-e01be36ffd85")
 		(property "Reference" "#PWR031"
-			(at 162.56 33.02 0)
+			(at 157.48 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8555,7 +8707,7 @@
 			)
 		)
 		(property "Value" "+7.5V"
-			(at 162.56 24.13 0)
+			(at 157.48 26.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8563,7 +8715,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 162.56 29.21 0)
+			(at 157.48 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8572,7 +8724,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 162.56 29.21 0)
+			(at 157.48 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8581,7 +8733,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+7.5V\""
-			(at 162.56 29.21 0)
+			(at 157.48 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8611,7 +8763,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d3007283-0f86-4ebe-b675-41fe348fe5d9")
-		(property "Reference" "J5"
+		(property "Reference" "CAN1"
 			(at 127 170.1799 0)
 			(effects
 				(font
@@ -8671,7 +8823,7 @@
 		(instances
 			(project ""
 				(path "/4efb8881-479f-4e59-a9be-3fc1d9bb8fe0"
-					(reference "J5")
+					(reference "CAN1")
 					(unit 1)
 				)
 			)
