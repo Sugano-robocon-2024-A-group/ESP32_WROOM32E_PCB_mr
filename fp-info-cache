@@ -1,4 +1,4 @@
-24268966473193329
+24288016839371479
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -56783,321 +56783,6 @@ One digit LED 7 segment SA39-11 SC39-11 SA39-12 SC39-12
 0
 10
 10
-Espressif
-ESP32-C3-DevKitC-02
-
-
-0
-30
-30
-Espressif
-ESP32-C3-DevKitM-1
-
-
-0
-30
-30
-Espressif
-ESP32-C3-MINI-1
-ESP32-C3-MINI-1: https://www.espressif.com/sites/default/files/documentation/esp32-c3-mini-1_datasheet_en.pdf
-ESP32-C3
-0
-61
-53
-Espressif
-ESP32-C3-MINI-1U
-ESP32-C3-MINI-1U: https://www.espressif.com/sites/default/files/documentation/esp32-c3-mini-1_datasheet_en.pdf
-ESP32-C3
-0
-61
-53
-Espressif
-ESP32-C3-MINI-1_HandSoldering
-ESP32-C3-MINI-1: https://www.espressif.com/sites/default/files/documentation/esp32-c3-mini-1_datasheet_en.pdf
-ESP32-C3
-0
-61
-53
-Espressif
-ESP32-C3-WROOM-02
-ESP32-C3-WROOM-02: https://www.espressif.com/sites/default/files/documentation/esp32-c3-wroom-02_datasheet_en.pdf
-ESP32-C3
-0
-27
-19
-Espressif
-ESP32-C3-WROOM-02U
-ESP32-C3-WROOM-02: https://www.espressif.com/sites/default/files/documentation/esp32-c3-wroom-02_datasheet_en.pdf
-ESP32-C3
-0
-27
-19
-Espressif
-ESP32-C6-DevKitC-1
-ESP32-C6 general-purpose development board, based on ESP32-2-WROOM-1,It has all the ESP32-C6 pins exposed and is easy to connect and use.
-ESP32-C6
-0
-32
-32
-Espressif
-ESP32-C6-DevKitM-1
-ESP32-C6 general-purpose development board, based on ESP32-2-WROOM-1,It has all the ESP32-C6 pins exposed and is easy to connect and use.
-ESP32-C6
-0
-30
-30
-Espressif
-ESP32-C6-MINI-1
-ESP32-C6-MINI-1: https://www.espressif.com/sites/default/files/documentation/esp32-c6-mini-1_datasheet_en.pdf
-ESP32-C6
-0
-61
-53
-Espressif
-ESP32-C6-MINI-1U
-ESP32-C6-MINI-1U: https://www.espressif.com/sites/default/files/documentation/esp32-c6-mini-1_datasheet_en.pdf
-ESP32-C6
-0
-61
-53
-Espressif
-ESP32-C6-WROOM-1
-ESP32-C6-WROOM-1: https://www.espressif.com/sites/default/files/documentation/esp32-c6-wroom-1_datasheet_en.pdf
-esp32-c6
-0
-37
-29
-Espressif
-ESP32-C6-WROOM-1U
-ESP32-C6-WROOM-1U: https://www.espressif.com/sites/default/files/documentation/esp32-c6-wroom-1_wroom-1u_datasheet_en.pdf
-esp32-c6
-0
-37
-29
-Espressif
-ESP32-DevKitC
-ESP32-DevKitC: https://docs.espressif.com/projects/esp-idf/en/latest/esp32/hw-reference/esp32/get-started-devkitc.html
-ESP32
-0
-38
-38
-Espressif
-ESP32-DevKitM-1
-ESP32-DevKitC: https://docs.espressif.com/projects/esp-idf/en/latest/esp32/hw-reference/esp32/get-started-devkitc.html
-ESP32
-0
-34
-34
-Espressif
-ESP32-H2-MINI-1
-ESP32-H2-MINI-1: https://www.espressif.com/sites/default/files/documentation/esp32-h2-mini-1_mini-1u_datasheet_en.pdf
-ESP32-H2
-0
-61
-53
-Espressif
-ESP32-MINI-1
-ESP32-MINI-1: https://www.espressif.com/sites/default/files/documentation/esp32-mini-1_datasheet_en.pdf
-ESP32-MINI-1
-0
-63
-55
-Espressif
-ESP32-MINI-1U
-ESP32-MINI-1U: https://www.espressif.com/sites/default/files/documentation/esp32-mini-1_datasheet_en.pdf
-ESP32-MINI-1U
-0
-63
-55
-Espressif
-ESP32-P4
-
-
-0
-113
-105
-Espressif
-ESP32-PICO-MINI-02
-ESP32-PICO-MINI-02: https://www.espressif.com/sites/default/files/documentation/esp32-pico-mini-02_datasheet_en.pdf
-ESP32-PICO-MINI-02
-0
-61
-53
-Espressif
-ESP32-PICO-MINI-02U
-ESP32-PICO-MINI-02U: https://www.espressif.com/sites/default/files/documentation/esp32-pico-mini-02_datasheet_en.pdf
-ESP32-PICO-MINI-02U
-0
-61
-53
-Espressif
-ESP32-PICO-MINI-02_HandSoldering
-ESP32-PICO-MINI-02: https://www.espressif.com/sites/default/files/documentation/esp32-pico-mini-02_datasheet_en.pdf
-ESP32-PICO-MINI-02
-0
-61
-53
-Espressif
-ESP32-S2-DevKitC-1
-ESP32-S2 general-purpose development board, based on ESP32-S2-SOLO or ESP32-S2-SOLO-U,It has all the ESP32-S2 pins exposed and is easy to connect and use.
-ESP32-S2
-0
-44
-44
-Espressif
-ESP32-S2-DevKitM
-ESP32-S2 general-purpose development board
-ESP32-S2
-0
-42
-42
-Espressif
-ESP32-S2-MINI-1
-ESP32-S2-MINI-1 and ESP32-S2-MINI-1U: https://www.espressif.com/sites/default/files/documentation/esp32-s2-mini-1_esp32-s2-mini-1u_datasheet_en.pdf
-ESP32-S2
-0
-73
-65
-Espressif
-ESP32-S2-MINI-1U
-ESP32-S2-MINI-1 and ESP32-S2-MINI-1U: https://www.espressif.com/sites/default/files/documentation/esp32-s2-mini-1_esp32-s2-mini-1u_datasheet_en.pdf
-ESP32-S2
-0
-73
-65
-Espressif
-ESP32-S2-MINI-1_HandSoldering
-ESP32-S2-MINI-1 and ESP32-S2-MINI-1U: https://www.espressif.com/sites/default/files/documentation/esp32-s2-mini-1_esp32-s2-mini-1u_datasheet_en.pdf
-ESP32-S2 Hand Soldering
-0
-73
-65
-Espressif
-ESP32-S2-SOLO
-ESP32-S2-SOLO https://www.espressif.com/sites/default/files/documentation/esp32-s2-solo_esp32-s2-solo-u_datasheet_en.pdf
-esp32-s2 module
-0
-49
-41
-Espressif
-ESP32-S2-SOLO-2U
-ESP32-S2-SOLO-2U https://www.espressif.com/sites/default/files/documentation/esp32-s2-solo-2_esp32-s2-solo-2u_datasheet_en.pdf
-esp32-s2 module
-0
-49
-41
-Espressif
-ESP32-S2-Saola-1
-Espressif ESP32-S2-Saola-1 Development Kit: https://docs.espressif.com/projects/esp-idf/en/latest/esp32s2/hw-reference/esp32s2/user-guide-saola-1-v1.2.html
-esp32-s2 devkit
-0
-42
-42
-Espressif
-ESP32-S2-WROOM
-ESP32-S2-WROOM and ESP32-S2-WROOM-I: https://www.espressif.com/sites/default/files/documentation/esp32-s2-wroom_esp32-s2-wroom-i_datasheet_en.pdf
-ESP32-S2
-0
-51
-43
-Espressif
-ESP32-S2-WROVER
-ESP32-S2-WROVER and ESP32-S2-WROVER-I: https://www.espressif.com/sites/default/files/documentation/esp32-s2-wrover_esp32-s2-wrover-i_datasheet_en.pdf
-ESP32-S2
-0
-55
-43
-Espressif
-ESP32-S3-DevKitC
-ESP32-S3 general-purpose development board, based on ESP32-S3-WROOM-1 or ESP32-S3-WROOM-1U,It has all the ESP32-S3 pins exposed and is easy to connect and use.
-ESP32-S3
-0
-44
-44
-Espressif
-ESP32-S3-MINI-1
-ESP32-S3-MINI-1
-esp32-s3
-0
-73
-65
-Espressif
-ESP32-S3-MINI-1U
-ESP32-S3-MINI-1 and ESP32-S3-MINI-1U
-esp32-s3
-0
-73
-65
-Espressif
-ESP32-S3-WROOM-1
-ESP32-S3-WROOM-1 is a powerful, generic Wi-Fi + Bluetooth LE MCU modules that have Dual core CPU , a rich set of peripherals, provides acceleration for neural network computing and signal processing workloads. They are an ideal choice for a wide variety of application scenarios related to AI + Internet of Things (AIoT), such as wake word detection and speech commands recognition , face detection and recognition, smart home, smart appliance, smart control panel, smart speaker etc.
-esp32-s3
-0
-51
-41
-Espressif
-ESP32-S3-WROOM-1U
-ESP32-S3-WROOM-1 is a powerful, generic Wi-Fi + Bluetooth LE MCU modules that have Dual core CPU , a rich set of peripherals, provides acceleration for neural network computing and signal processing workloads. They are an ideal choice for a wide variety of application scenarios related to AI + Internet of Things (AIoT), such as wake word detection and speech commands recognition , face detection and recognition, smart home, smart appliance, smart control panel, smart speaker etc.
-esp32-s3
-0
-49
-41
-Espressif
-ESP32-S3-WROOM-2
-ESP32-S3-WROOM-2 is a powerful, generic Wi-Fi + Bluetooth LE MCU modules that have Dual core CPU , a rich set of peripherals, provides acceleration for neural network computing and signal processing workloads. They are an ideal choice for a wide variety of application scenarios related to AI + Internet of Things (AIoT), such as wake word detection and speech commands recognition , face detection and recognition, smart home, smart appliance, smart control panel, smart speaker etc.
-esp32-s3
-0
-51
-41
-Espressif
-ESP32-WROOM-32E
-ESP32-WROOM-32E and ESP32-WROOM-32UE: https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32e_esp32-wroom-32ue_datasheet_en.pdf
-ESP32
-0
-50
-39
-Espressif
-ESP32-WROOM-32UE
-ESP32-WROOM-32E and ESP32-WROOM-32UE: https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32e_esp32-wroom-32ue_datasheet_en.pdf
-ESP32
-0
-47
-39
-Espressif
-ESP32-WROOM-DA
-ESP32-WROOM-DA: https://www.espressif.com/sites/default/files/documentation/esp32-wroom-da_datasheet_en.pdf
-ESP32 Dual Antenna DA
-0
-49
-41
-Espressif
-ESP32-WROVER-E
-ESP32-WROVER-E: https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32e_esp32-wroom-32ue_datasheet_en.pdf
-esp32 module
-0
-47
-39
-Espressif
-ESP32-WROVER-E_ThermalVias
-ESP32-WROVER-E: https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32e_esp32-wroom-32ue_datasheet_en.pdf
-esp32 module thermal vias
-0
-59
-39
-Espressif
-ESP8685-WROOM-06
-ESP32-WROOM-06: https://www.espressif.com/sites/default/files/documentation/esp8685-wroom-06_datasheet_en.pdf
-esp32 module
-0
-31
-22
-Espressif
-QFN-32-1EP_4x4mm_P0.4mm_EP2.9x2.9mm
-QFN, 32 Pin (http://ww1.microchip.com/downloads/en/DeviceDoc/atmel-8153-8-and-16-bit-avr-microcontroller-xmega-e-atxmega8e5-atxmega16e5-atxmega32e5_datasheet.pdf#page=70), generated with kicad-footprint-generator ipc_noLead_generator.py
-QFN NoLead
-0
-37
-33
 Ferrite_THT
 LairdTech_28C0236-0JW-10
 Ferrite, vertical, LairdTech 28C0236-0JW-10, https://assets.lairdtech.com/home/brandworld/files/28C0236-0JW-10.pdf, JW Miller core https://www.bourns.com/products/magnetic-products/j.w.-miller-through-hole-ferrite-beads-emi-filters
@@ -68942,6 +68627,405 @@ IR Reflective Optical Sensor with Transistor Output TCRT5000 Vishay Distance Sen
 0
 4
 4
+Original
+BNO055_Board
+
+
+0
+8
+8
+Original
+CNZ1023
+Fork-type photointerrupter (https://everlighteurope.com/index.php?controller=attachment&id_attachment=5389)
+Photointerrupter infrared LED
+0
+4
+4
+Original
+D-sub_9_Female_aki
+
+
+0
+9
+9
+Original
+D-sub_9_Male_aki
+
+
+0
+9
+8
+Original
+DCDC_5V_MYMGK00506ERSR
+
+
+0
+12
+12
+Original
+DJI_LOGO_7mm
+
+
+0
+0
+0
+Original
+DJI_LOGO_9mm
+
+
+0
+0
+0
+Original
+ICS_converter
+
+
+0
+13
+13
+Original
+JST_GH_SM02B-GHS-TB_1x02-1MP_P1.25mm_Horizontal_Handsolder
+JST GH series connector, SM02B-GHS-TB (http://www.jst-mfg.com/product/pdf/eng/eGH.pdf), generated with kicad-footprint-generator
+connector JST GH top entry
+0
+4
+3
+Original
+Kai_LAN_RJ45_Neltron_Industrial_7810-8P8C
+http://akizukidenshi.com/download/ds/neltron/7810-XPXC_20180312.pdf
+RJ45 8p8c ethernet cat5
+0
+10
+8
+Original
+LAN-DIP
+Through hole straight pin header, 1x06, 2.54mm pitch, single row
+Through hole pin header THT 1x06 2.54mm single row
+0
+22
+8
+Original
+LAN-DIP-RBST
+Through hole straight pin header, 1x06, 2.54mm pitch, single row
+Through hole pin header THT 1x06 2.54mm single row
+0
+22
+8
+Original
+LAN-DIP-RBST2
+Through hole straight pin header, 1x06, 2.54mm pitch, single row
+Through hole pin header THT 1x06 2.54mm single row
+0
+12
+8
+Original
+LAN-DIP2
+Through hole straight pin header, 1x06, 2.54mm pitch, single row
+Through hole pin header THT 1x06 2.54mm single row
+0
+12
+8
+Original
+LAN-DIP_in
+Through hole straight pin header, 1x06, 2.54mm pitch, single row
+Through hole pin header THT 1x06 2.54mm single row
+0
+10
+8
+Original
+LAN-DIP_out
+Through hole straight pin header, 1x06, 2.54mm pitch, single row
+Through hole pin header THT 1x06 2.54mm single row
+0
+10
+8
+Original
+NUCLEO-F446RE
+
+
+0
+76
+76
+Original
+ROBOSTEP
+
+
+0
+0
+0
+Original
+ROBOSTEP_LOGO
+
+
+0
+0
+0
+Original
+ROBOSTEP_LOGO_10mm
+
+
+0
+0
+0
+Original
+ROBOSTEP_LOGO_20mm
+
+
+0
+0
+0
+Original
+ROBOSTEP_LOGO_B_6mm
+
+
+0
+0
+0
+Original
+ROBOSTEP_LOGO_B_7_5mm
+
+
+0
+0
+0
+Original
+ROBOSTEP_LOGO_B_10mm
+
+
+0
+0
+0
+Original
+ROBOSTEP_LOGO_B_20mm
+
+
+0
+0
+0
+Original
+ROBOSTEP_LOGO_B_25mm
+
+
+0
+0
+0
+Original
+ROBOSTEP_LOGO_B_M_25mm
+
+
+0
+0
+0
+Original
+ROBOSTEP_LOGO_B_M_S_7mm
+
+
+0
+0
+0
+Original
+ROBOSTEP_LOGO_B_S_4mm
+
+
+0
+0
+0
+Original
+ROBOSTEP_LOGO_B_S_7mm
+
+
+0
+0
+0
+Original
+SMD_PAD
+
+
+0
+0
+0
+Original
+SSAJ120100
+
+
+0
+5
+3
+Original
+SW_SPST_PTS810_HandSolder
+C&K Components, PTS 810 Series, Microminiature SMT Top Actuated, http://www.ckswitches.com/media/1476/pts810.pdf
+SPST Button Switch
+0
+4
+2
+Original
+TB6612_aki
+
+
+0
+15
+15
+Original
+THT_PAD
+
+
+0
+1
+1
+Original
+TMPI_LOGO
+
+
+0
+0
+0
+Original
+TMPI_LOGO_5mm
+
+
+0
+0
+0
+Original
+TMPI_LOGO_7mm_Fill
+
+
+0
+0
+0
+Original
+TMPI_LOGO_13mm_Fill
+
+
+0
+0
+0
+Original
+TMPI_LOGO_13mm_Fill_M
+
+
+0
+0
+0
+Original
+TMPI_LOGO_15mm
+
+
+0
+0
+0
+Original
+TO-220-3pD
+
+
+0
+4
+4
+Original
+UGCT7525AN4
+
+
+0
+4
+2
+Original
+akiB
+
+
+0
+4
+4
+Original
+akiC
+
+
+0
+447
+447
+Original
+akiC2
+
+
+0
+0
+0
+Original
+akiC3
+
+
+0
+0
+0
+Original
+akiC4
+
+
+0
+0
+0
+Original
+akiC5
+
+
+0
+0
+0
+Original
+akiC6
+
+
+0
+0
+0
+Original
+akiC7
+
+
+0
+0
+0
+Original
+akiC8
+
+
+0
+4
+0
+Original
+hitoyoshi
+
+
+0
+0
+0
+Original
+meixhi
+
+
+0
+0
+0
+Original
+slide_SW
+4-bit rotary coded switch, J-hook, https://www.nidec-copal-electronics.com/e/catalog/switch/sh-7000.pdf
+rotary switch bcd
+0
+6
+3
+Original
+solderbridge
+SMD Solder Jumper, 1x1.5mm Triangular Pads, 0.3mm gap, open
+solder jumper open
+0
+2
+2
+Original
+solderbridge_p3
+SMD Solder Jumper, 1x1.5mm Triangular Pads, 0.3mm gap, open
+solder jumper open
+0
+3
+3
 Oscillator
 Oscillator_DIP-8
 Oscillator, DIP8,http://cdn-reichelt.de/documents/datenblatt/B400/OSZI.pdf
@@ -98286,10 +98370,3 @@ MODULE_ESP32-DEVKITC-32E
 0
 38
 38
-my_library
-PIC12F629
-
-
-0
-8
-8
