@@ -1,5 +1,6 @@
 # ESP32_WROOM_32E_msd
 ## 作成・許諾 
+Copyright (c) [2024] [益田隆太郎]. All rights reserved.
 Sugano Robocon Aチーム (益田隆太郎、大谷卓輝、須崎一眞、藤上晃成)  
 ### * このソフトウェアパッケージは、3条項BSDライセンスの下、再配布及び使用が許可されます
 ### @ 2024 Sugano Robocon A team
