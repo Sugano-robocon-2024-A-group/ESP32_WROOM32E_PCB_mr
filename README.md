@@ -1,8 +1,9 @@
 # ESP32_WROOM_32E_msd
 ## 作成・許諾 
 Sugano Robocon Aチーム (益田隆太郎、大谷卓輝、須崎一眞、藤上晃成)  
-## * このソフトウェアパッケージは、3条項BSDライセンスの下、再配布及び使用が許可されます
-## @ 2024 Sugano Robocon A team
+### * このソフトウェアパッケージは、3条項BSDライセンスの下、再配布及び使用が許可されます
+### @ 2024 Sugano Robocon A team
+連絡はX(@Masuda_moto)またはryutaro.masuda@akane.waseda.jpまで
 ## 外観
 ![3Dviewr](https://github.com/Sugano-robocon-2024-A-group/ESP32_WROOM32E_PCB_mr/blob/main/pictures/3Dviewer.png)
 ![PCBViwer](https://github.com/Sugano-robocon-2024-A-group/ESP32_WROOM32E_PCB_mr/blob/main/pictures/PCB_editor.png)
