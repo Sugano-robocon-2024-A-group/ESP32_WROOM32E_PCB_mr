@@ -1,4 +1,8 @@
 # ESP32_WROOM_32E_msd
+## 作成・許諾 
+Sugano Robocon Aチーム (益田隆太郎、大谷卓輝、須崎一眞、藤上晃成)  
+## * このソフトウェアパッケージは、3条項BSDライセンスの下、再配布及び使用が許可されます
+## @ 2024 Sugano Robocon A team
 ## 外観
 ![3Dviewr](https://github.com/Sugano-robocon-2024-A-group/ESP32_WROOM32E_PCB_mr/blob/main/pictures/3Dviewer.png)
 ![PCBViwer](https://github.com/Sugano-robocon-2024-A-group/ESP32_WROOM32E_PCB_mr/blob/main/pictures/PCB_editor.png)
@@ -25,6 +29,7 @@ GPIO04 RB_PWM
 GPIO25 LB_1  
 GPIO14 LB_2  
 GPIO13 LB_PWM  
+足回りのモータドライバは[こちら](https://osoyoo.com/2022/02/25/osoyoo-model-y-4-channel-motor-driver/)の市販品を使用しました。
 
 ### CAN通信
 いろんなサイトで26と27がRXとTXにアサインされていたので使用。うまく動きました。
